@@ -6,3 +6,16 @@
     font-weight:normal;
     line-height:1em;
 }
+
+/*--Main structual styling--*/
+
+body{
+    background: #084e0b;
+    color: rgb(233, 220, 220);
+}
+
+section, header, footer{
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+}
