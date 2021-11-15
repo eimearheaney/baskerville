@@ -14,7 +14,7 @@ body{
     color: rgb(12, 17, 13);
 }
 
-section, header, footer{
+section, header {
     width: 80%;
     max-width: 700px;
     margin: auto;
@@ -36,7 +36,7 @@ h1{
     margin-top: 3em;
 }
 
-h3{
+h2{
     font-size: 1.999rem;
     margin: 3em 0 1em 0;
 }
@@ -97,4 +97,18 @@ nav a:hover{
     border-bottom: none;
     color: crimson;
     transition: all 0.3s ease-in-out;
+}
+
+hr{
+    margin: 100px 0;
+    height: 1px;
+    background-color:rgb(12, 49, 7) ;
+    color: rgb(12, 49, 7);
+    border: 0 none;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.75rem;
+    margin: 4rem 0;
 }
