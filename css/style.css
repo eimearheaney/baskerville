@@ -40,3 +40,27 @@ h3{
     font-size: 1.999rem;
     margin: 3em 0 1em 0;
 }
+
+blockquote{
+    font-size: 1.414rem;
+    font-style: italic;
+    hanging-punctuation: first;
+    text-indent: -0.75rem;
+}
+
+cite{
+    font-size: 0.8rem;
+    color:rgb(243, 236, 236) ;
+    font-style: normal;
+}
+
+/*--Styling Links--*/
+a{
+    color:rgb(6, 29, 3) ;
+    text-decoration: none;
+}
+
+a:hover{
+    color: crimson;
+    border-bottom: 3px dotted;
+}
