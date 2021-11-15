@@ -10,7 +10,7 @@
 /*--Main structual styling--*/
 
 body{
-    background: #053307;
+    background: #449948;
     color: rgb(233, 220, 220);
 }
 
@@ -23,7 +23,7 @@ section, header, footer{
 /*--Styling typography--*/
 
 h1,h3, blockquote{
-    color: cornflowerblue;
+    color: rgb(11, 53, 6);
 }
 
 p, blockquote{
