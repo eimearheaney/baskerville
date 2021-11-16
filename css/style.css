@@ -12,6 +12,7 @@
 body{
     background: rgb(240, 243, 240);
     color: rgb(12, 17, 13);
+    text-align: center;
 }
 
 section, header {
@@ -22,7 +23,7 @@ section, header {
 
 /*--Styling typography--*/
 
-h1,h3, blockquote{
+h1,h2, blockquote{
     color: rgb(12, 49, 7);
 }
 
@@ -109,6 +110,6 @@ hr{
 
 footer{
     text-align: center;
-    font-size: 0.75rem;
+    font-size: 1rem;
     margin: 4rem 0;
 }
