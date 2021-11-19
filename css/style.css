@@ -12,7 +12,7 @@
 body{
     background: rgb(240, 243, 240);
     color: rgb(12, 17, 13);
-    text-align: center;
+    text-anchor: middle;
 }
 
 section, header {
