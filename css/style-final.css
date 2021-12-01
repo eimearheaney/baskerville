@@ -83,7 +83,7 @@ h2 {
 blockquote {
     font-style: italic;
     font-size: 1.999rem;
-    color: #760071;
+    color: darkolivegreen;
     hanging-punctuation: first;
     text-indent: -0.75rem;}
 
@@ -96,7 +96,7 @@ blockquote cite {
 
 /*--- STYLING LINKS ---*/
 a {
-    color: #8f0040;
+    color: #110a0d;
     text-decoration: none;}
 
 a:visited {
