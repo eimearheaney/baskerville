@@ -44,7 +44,7 @@ section{
 p {font-family: mr-eaves-sans, sans-serif;} 
 
 header h1, h2, p {
-    color: #f7f7f7;
+    color:darkolivegreen;
     padding: 2rem 0;
     font-weight: normal;}
 
@@ -64,7 +64,7 @@ header p {
 
 h1, h2, h3 {
     font-weight: normal;
-    color: #8f0040;}
+    color: darkolivegreen}
 
 p, blockquote {
     padding: 1rem 0;
